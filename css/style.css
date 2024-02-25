@@ -359,6 +359,11 @@ input {
     height: 100%;
    /* padding-top: 150px;*/
 }
+
+.tm-box-text {
+ font-size: 16px !important;
+}
+
 .tm-box {
   background-color: #F2F2F2;
   max-width: 1140px;
