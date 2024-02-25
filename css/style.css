@@ -258,11 +258,25 @@ h2 {
   background-attachment: fixed; 
 }*/
 .contact-content h1 {
-    color: #fff;
+    color: #000000;
     text-transform: capitalize;
     margin-bottom: 30px;
+  text-shadow: 2px 2px #e4e2e2;
+}
+
+.contact-content-main h1 {
+  color: #fff;
+  text-transform: capitalize;
+  margin-bottom: 30px;
   text-shadow: 2px 2px #333;
 }
+
+.contact-content-main-words {
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  font-size: 22px;
+}
+
 .contact-content p {
     background: rgba(242, 242, 242, 0.4) none repeat scroll 0 0;
     border-radius: 5px;
