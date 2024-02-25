@@ -231,6 +231,12 @@ h2 {
   max-width: 260px;
   margin: 0 auto 30px;
 }
+
+/* .testimonial-content img {
+  width: 260px;
+  height: 260px;
+} */
+
 .testimonial-content  p {
     padding: 10px 20px;
     text-align: left;
