@@ -232,10 +232,21 @@ h2 {
   margin: 0 auto 30px;
 }
 
-/* .testimonial-content img {
-  width: 260px;
-  height: 260px;
-} */
+.background-video {
+  z-index: -1;
+}
+
+#bg-video {
+  position: absolute;
+}
+
+.price {
+  position: absolute;
+  font-weight: bold;
+  right: 0;
+  padding-right: 35px;
+  margin-top: -10%;
+}
 
 .testimonial-content  p {
     padding: 10px 20px;
